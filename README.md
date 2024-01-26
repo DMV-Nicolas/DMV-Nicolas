@@ -7,7 +7,7 @@ Go Backend Developer
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [dmvnicolas@gmail.com](mailto:dmvnicolas@gmail.com)
 * 🚀  I'm currently working on [Robotgram](http://github.com/DMV-Nicolas/robotgram)
-* 🧠  I'm learning API security best practices and gRPC
+* 🧠  I'm learning React and typescript
 * 🤝  I'm open to collaborating on open source projects
 
 ### Skills
