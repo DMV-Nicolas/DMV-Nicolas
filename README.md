@@ -1,7 +1,7 @@
 Hi 👋 My name is Nicolas Moreno
 ===============================
 
-Go Backend Developer
+Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Colombia
